@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akhilmenon
 - 👀 I’m interested in ...python programming
 - 🌱 I’m currently learning ...python programming 
-- 💞️ I’m looking to collaborate on ...like minded python programmers
+- 💞️ I’m looking to collaborate with ...like minded python programmers 
 - 📫 How to reach me ...through my email : menonakhil43@gmail.com
 
 <!---
